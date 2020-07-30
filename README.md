@@ -16,5 +16,6 @@
   cd gestures_config
   ./gestures.sh
 ````
+---
 ### По желанию можно использовать жесты с файла Gestures.conf
 Для этого в приложении Gestures нужно имортировать файл .conf
